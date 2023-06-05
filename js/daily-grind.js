@@ -33,7 +33,7 @@ switch (today) {
       color: "pink",
       pic: "images/bubble-tea.jpg",
       alt: "A picture of a Bubble Tea",
-      day: "Wednesday",
+      day: "Monday",
       desc: `I like me some bubble tea!` //no comma needed if last
     };
     break;
