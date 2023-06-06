@@ -47,3 +47,4 @@ switch(today){
 
   //alert(today);
   console.log(coffee); 
+}
