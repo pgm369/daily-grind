@@ -14,15 +14,17 @@ day - the day of the week
 let myDate = new Date();
 
 let today = myDate.getDay();
+
 //today = 3;	
 
 switch(today){ 
+
      case 2:
-         today = "Tuesday";
+        today = "Tuesday";
      break;
 
      case 3:
-         today = "Wednesday";
+        today = "Wednesday";
      break;
 
      default:
