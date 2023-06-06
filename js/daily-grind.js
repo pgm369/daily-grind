@@ -61,3 +61,4 @@ function coffeeTemplate(coffee) {
 
   //alert(today);
   console.log(coffee); 
+}
